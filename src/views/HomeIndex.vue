@@ -1,10 +1,10 @@
 <template>
-  <div class="base-layout"></div>
+  <div class="home"></div>
 </template>
 
 <script>
 export default {
-  name: 'BaseLayout',
+  name: 'HomeIndex',
   components: {},
   data() {
     return {}

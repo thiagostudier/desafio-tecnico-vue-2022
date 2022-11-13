@@ -1,10 +1,10 @@
 <template>
-  <div class="base-layout"></div>
+  <div class="navbar"></div>
 </template>
 
 <script>
 export default {
-  name: 'BaseLayout',
+  name: 'NavbarDefault',
   components: {},
   data() {
     return {}
