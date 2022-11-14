@@ -1,24 +1,35 @@
-# Desafio técnico - Vuejs
+# Desafio Técnico VueJs - Space Flight News
 
-## Project setup
-```
+### Descrição
+
+Projeto Vuejs que apresenta notícias relacionadas ao espaço aéreo.
+O desenvolvimento faz parte de um desafio técnico da Coodesh[https://coodesh.com/].
+
+### Funções
+
+- Listar notícias;
+- Paginar notícias;
+- Ordenar notícias;
+- Pesquisar notícias;
+- Consome a API SpaceFlightNews[https://api.spaceflightnewsapi.net/documentation#/Article/get_v3_articles_event__id_].
+
+### Tecnologias empregadas
+
+- Vuejs
+- Axios
+- Sass
+- Eslint, Babel
+
+## Comandos para clonar o projeto
+
+``` bash
+# clonando projeto do github
+git clone https://github.com/thiagostudier/desafio-tecnico-vue-2022
+
+# instalar dependências
 yarn install
-```
 
-### Compiles and hot-reloads for development
-```
+# subir ambiente no link: http://localhost:8080/#/
 yarn serve
-```
 
-### Compiles and minifies for production
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

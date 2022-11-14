@@ -1,0 +1,11 @@
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
+
+@import './resets';
+@import './fonts';
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+  background: #bbb;
+}
+

@@ -15,7 +15,8 @@ module.exports = {
     'no-var': 'error',
     'prefer-const': 'error',
     eqeqeq: ['error', 'always'],
-    camelcase: 'error'
+    camelcase: 'error',
+    'vue/multi-word-component-names': 0
   },
   overrides: [
     {

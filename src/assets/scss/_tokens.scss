@@ -1,0 +1,39 @@
+$heading-sizes: (
+  'heading-100': 40px,
+  'heading-80': 33px,
+  'heading-60': 28px,
+  'heading-40': 23px,
+  'heading-20': 19px,
+  'heading-10': 15px
+) !default;
+
+$paragraph-sizes: (
+  'paragraph-100': 18px,
+  'paragraph-80': 16px,
+  'paragraph-60': 14px,
+  'paragraph-40': 12px,
+  'paragraph-20': 10px,
+  'paragraph-10': 8px
+) !default;
+
+$font-weights: (
+  'weight-thin': 100,
+  'weight-x-light': 200,
+  'weight-light': 300,
+  'weight-normal': 400,
+  'weight-medium': 500,
+  'weight-semi-bold': 600,
+  'weight-bold': 700,
+) !default;
+
+@function heading-size($size) {
+    @return map-get($heading-sizes, $size);
+}
+
+@function paragraph-size($size) {
+    @return map-get($paragraph-sizes, $size);
+}
+  
+@function font-weight($weight) {
+    @return map-get($font-weights, $weight);
+}
