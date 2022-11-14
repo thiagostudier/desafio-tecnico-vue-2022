@@ -5,6 +5,9 @@
 Projeto Vuejs que apresenta notícias relacionadas ao espaço aéreo.
 O desenvolvimento faz parte de um desafio técnico da [Coodesh](https://coodesh.com/).
 
+### Visualizar projeto no ar
+[Space Flight News](https://space-flight-news-challenge.vercel.app/)
+
 ### Funções
 
 - Listar notícias;
