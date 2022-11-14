@@ -3,7 +3,7 @@
 ### Descrição
 
 Projeto Vuejs que apresenta notícias relacionadas ao espaço aéreo.
-O desenvolvimento faz parte de um desafio técnico da Coodesh[https://coodesh.com/].
+O desenvolvimento faz parte de um desafio técnico da [Coodesh](https://coodesh.com/).
 
 ### Funções
 
@@ -11,7 +11,7 @@ O desenvolvimento faz parte de um desafio técnico da Coodesh[https://coodesh.co
 - Paginar notícias;
 - Ordenar notícias;
 - Pesquisar notícias;
-- Consome a API SpaceFlightNews[https://api.spaceflightnewsapi.net/documentation#/Article/get_v3_articles_event__id_].
+- Consome a API [Space Fligh tNews](https://api.spaceflightnewsapi.net/documentation#/Article/get_v3_articles_event__id_).
 
 ### Tecnologias empregadas
 
